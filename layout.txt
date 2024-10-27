@@ -1,0 +1,63 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Layout</title>
+  <style>
+  
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    nav {
+      background-color: #f2f2f2;
+      padding: 10px;
+      text-align: left;
+    }
+    section {
+      padding: 150px;
+      color:#fff;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    
+  </style>
+</head>
+<body>
+  <body background="https://scontent.fhyd3-1.fna.fbcdn.net/v/t1.6435-9/133364230_446955413354472_8977050080516649624_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c2f564&_nc_ohc=L8w2WfAMe_oAX8xEZ5T&_nc_ht=scontent.fhyd3-1.fna&oh=00_AfC7OHMMRiLLfY5bgF9ThjTbO-IBWA6fBkRcweBG6M4K_A&oe=65B9D33A"></body>
+
+  <header>
+    <h1>Your Website</h1>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>  | 
+    <a href="#">about</a>  |
+    <a href="#">contact</a>
+  </nav>
+  <section>
+  <p><center> Hi,Welcome to my web page</center></p>
+</section>
+
+  <footer>
+    <p> @2023 Your Website.All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
+      <script src="script.js"></script>
+  </body>
+</html>
